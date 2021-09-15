@@ -1,0 +1,10 @@
+Visitante: Nombre: Gandalf; Presupuesto: 100.0; Tiempo: 50.0; Preferencia: PAISAJE
+--------------------------------------------------------------  
+Itinerario
+--------------------------------------------------------------  
+Nombre Promocion: PACK PAISAJE; Tipo: Gratis ; Atraccion gratuita: Erebor; Costo: 10.0; Tiempo: 40.0
+Nombre: LothlÃ³rien; Costo: 35.0; Cupo diponibre: 29; Tiempo: 1.0; Tipo: DEGUSTACION
+Nombre: Mordor; Costo: 25.0; Cupo diponibre: 3; Tiempo: 3.0; Tipo: AVENTURA
+Nombre: Moria; Costo: 10.0; Cupo diponibre: 4; Tiempo: 2.0; Tipo: AVENTURA
+--------------------------------------------------------------  
+Total a pagar: 80.0 Tiempo: 48.0
